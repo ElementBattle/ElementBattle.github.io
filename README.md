@@ -1,1 +1,2 @@
-# ElementBattle.github.io
+# ElementBattle
+公開用エメバト
